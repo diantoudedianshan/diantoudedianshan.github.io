@@ -73,7 +73,7 @@ awards:
   - title: Lee Wai Wing scholarship
     date: '2022-12'
     awarder: Peking University
-    - title: Merit Student
+  - title: Merit Student
     date: '2023-12'
     awarder: Peking University
   - title: Merit Student
