@@ -65,19 +65,19 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Outstanding Graduates at Peking University
-    date: '2024-06'
+    date: '2024-06-01'
     awarder: Peking University
   - title: UBIQUANT scholarship
-    date: '2023-12'
+    date: '2023-12-01'
     awarder: Peking University
   - title: Lee Wai Wing scholarship
-    date: '2022-12'
+    date: '2022-12-01'
     awarder: Peking University
   - title: Merit Student
-    date: '2023-12'
+    date: '2023-12-01'
     awarder: Peking University
   - title: Merit Student
-    date: '2022-12'
+    date: '2022-12-01'
     awarder: Peking University
 ---
 
