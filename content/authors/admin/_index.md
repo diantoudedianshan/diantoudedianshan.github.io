@@ -40,7 +40,7 @@ education:
     institution: Peking University
     icon: ""
     date_start: 2024-09-01
-    date_end: Unitil Now
+    date_end: 
     summary: |
       Supervised by Prof. Meng Li. 
   - area: BS
