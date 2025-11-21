@@ -30,19 +30,6 @@ organizations:
   - name: Peking University
     url: https://www.pku.edu.cn/
 
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: '2401111912@stu.pku.edu.cn'
-    label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/diantoudedianshan
-  - icon: academicons/google-scholar
-    https://scholar.google.com/citations?hl=zh-CN&user=fo0whCoAAAAJ
-  - icon: academicons/orcid
-    url: https://orcid.org/0009-0007-0672-6389
-
 interests:
   - Embodied AI
   - Efficient AI
